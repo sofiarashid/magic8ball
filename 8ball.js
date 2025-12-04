@@ -56,7 +56,7 @@ function shakeMagic8Ball() {
             break;
         default:
             answer = "Error";
-            image='default-image.jpg';
+            image='8-image.jpg';
             color='text-secondary';
     }
     
