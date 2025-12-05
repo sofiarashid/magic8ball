@@ -1,6 +1,30 @@
 body {
-    color: darkblue;
-    font-family: "cofo-glassier", sans-serif;
+    color: #27113E;
+    background-color: #E2D4F1;
+}
+.text {
+    font-family: "kranto-display-semicondensed", sans-serif;
     font-weight: 400;
     font-style: normal;
+}
+h1 {
+    font-style: normal;
+    font-size: 100px;
+}
+p {
+    font-size: 50px;
+}
+img {
+    margin: 20px;
+}
+.my-btn {
+    background-color: #C39BD3;
+    border-color: #9B59B6;
+    color: white;
+    font-size: 30px;
+    font-family: "kranto-display-semicondensed", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 10px;
+    border-radius: 8px;
 }
