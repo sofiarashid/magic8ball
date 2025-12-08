@@ -10,6 +10,7 @@ body {
 h1 {
     font-style: normal;
     font-size: 100px;
+    margin-top: 25px;
 }
 p {
     font-size: 50px;
@@ -32,4 +33,6 @@ footer {
     background-color: #C39BD3;
     color: #9B59B6;
     font-size: 40px;
+    width: 100%;
+    margin-top: 15px;
 }
