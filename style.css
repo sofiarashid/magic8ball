@@ -12,11 +12,11 @@ body {
 }
 h1 {
     font-style: normal;
-    font-size: 75px;
+    font-size: 50px;
     margin-top: 25px;
 }
 p {
-    font-size: 50px;
+    font-size: 20px;
 }
 img {
     margin: 20px;
@@ -35,7 +35,7 @@ img {
 footer {
     background-color: #C39BD3;
     color: #9B59B6;
-    font-size: 20px;
+    font-size: 10px;
     width: 100%;
     margin-top: 50px;
 }
